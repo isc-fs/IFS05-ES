@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2515-I_SO
+D CAN Controller SPI data filtering SO18
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-34/DSA-675138.pdf
+$ENDCMP
+#
+#End Doc Library

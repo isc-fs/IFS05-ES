@@ -1,0 +1,26 @@
+Reference(s);Qty;Value;Footprint; Price ;Total price;Manufacturer_Name;Mouser Part Number;Mouser Price/Stock
+C1, C6;2;100nF;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder; € 0,10 ; € 0,20 ;KEMET;80-C0805C104K8RAUTO;https://www.mouser.es/ProductDetail/KEMET/C0805C104K8RACAUTO?qs=ds50AKTGxA8vmn6TMGYnqg%3D%3D
+C2, C5;2;47uF;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder; € 0,57 ; € 1,14 ;Murata Electronics;81-GRM21BR61A476ME5L;https://www.mouser.es/ProductDetail/Murata-Electronics/GRM21BR61A476ME15L?qs=hNud%2FORuBR2%2FEB7WUpdltg%3D%3D
+C3, C4, C7, C8, C9, C10, C11, C12, C13, C14;10;22pF;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder; € 0,30 ; € 3,00 ;KEMET;80-C0805C220J8GAUTO;https://www.mouser.es/ProductDetail/KEMET/C0805C220J8GACAUTO?qs=MyNHzdoqoQLZxlH90zWsvA%3D%3D 
+D1;1;MMBZxx;Package_TO_SOT_SMD:SOT-23; € 0,36 ; € 0,36 ;Diodes Incorporated;621-MMBZ5232BW-F;https://www.mouser.es/ProductDetail/Diodes-Incorporated/MMBZ5232BW-7-F?qs=oYhA5pL5CqcOp9whDVebjw%3D%3D
+D2, D3, D4, D9, D11;5;LED;Led5V:Led5V; € 0,42 ; € 2,10 ;Stanley Electric;327-PG1101WTR;https://www.mouser.es/ProductDetail/Stanley-Electric/PG1101W-TR?qs=byeeYqUIh0P0i4YKMcNQsA%3D%3D
+D5, D6, D8, D7, D10, D12;6;D;Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder; € 0,32 ; € 1,92 ;Wurth Elektronik;710-82350120101;https://www.mouser.es/ProductDetail/Wurth-Elektronik/82350120101?qs=sGAEpiMZZMtbRapU8LlZDx2r3HTumQniHaKlch7D1qra0fytKNxWpQ%3D%3D
+H1, H2, H3, H4, H5;5;MountingHole;;; € -   ;;;
+J1, J2, J3, J14, J15, J16, J17, J18, J12, J13;10;90136-1103;Conector 3 pin C-grid:SHDR3W65P0X254_1X3_1097X721X1110P; € 1,57 ; € 15,70 ;Molex;538-90136-1103;https://www.mouser.co.uk/ProductDetail/Molex/90136-1103?qs=kEwmkoUtv7SHZQ1YiKbD1w%3D%3D
+J4, J5, J6, J7;4;90136-1102;Conector 2 pin C-grid:SHDR2W65P0X254_1X2_843X721X1110P; € 1,17 ; € 4,68 ;Molex;538-90136-1102;https://www.mouser.co.uk/ProductDetail/Molex/90136-1102?qs=kEwmkoUtv7SiXyA4aT%252Bklw%3D%3D
+J8, J9;2;90136-1104;Conector 4 pin C-grd:SHDR4W65P0X254_1X4_1351X721X1110P; € 1,33 ; € 2,66 ;Molex;538-90136-1104;https://www.mouser.co.uk/ProductDetail/Molex/90136-1104?qs=TEDqGy%252B%2F3mHtJT6agql3rA%3D%3D
+J10;1;90136-1105;Conector 5 pin C-grid:SHDR5W65P0X254_1X5_1605X721X1110P; € 1,57 ; € 1,57 ;Molex;538-90136-1105;https://www.mouser.co.uk/ProductDetail/Molex/90136-1105?qs=TEDqGy%252B%2F3mER6TZDMoNSTg%3D%3D
+J11;1;90136-1106;Conector 6 pin C-grid:SHDR6W65P0X254_1X6_1859X721X1110P; € 1,45 ; € 1,45 ;Molex;538-90136-1106;https://www.mouser.co.uk/ProductDetail/Molex/90136-1106?qs=kEwmkoUtv7T5JUXWcP9Ytg%3D%3D
+K1, K2, K3;3;RTE2xAxx;Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm;; € -   ;;;
+Q1, Q2, Q3, Q4, Q5, Q6, Q7;7;FDN5632N;Package_TO_SOT_SMD:SOT-23; € 0,70 ; € 4,90 ;Fairchild;512-FDN5632N-F085;https://www.mouser.es/ProductDetail/onsemi-Fairchild/FDN5632N-F085?qs=THZS4U49PK5JFq8XNv2RZA%3D%3D
+R1, R2, R8, R9, R11, R13, R14, R16, R18, R19, R21, R22, R24;13;1K;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder; € 0,10 ; € 1,30 ;TE Connectivity;279-1623131-1;https://www.mouser.es/ProductDetail/TE-Connectivity-Holsworthy/1623131-1?qs=G9T%2FR3T%252B8yu93wlz13bWJA%3D%3D
+R3, R4, R5, R20;4;10K;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder; € 0,21 ; € 0,84 ;TE Connectivity;279-1623097-1;https://www.mouser.es/ProductDetail/TE-Connectivity-Holsworthy/1623097-1?qs=G9T%2FR3T%252B8ysffHlZQi97lQ%3D%3D
+R6, R7;2;120;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder; € 0,30 ; € 0,60 ;TE Connectivity;279-CRG0805F120R;https://www.mouser.es/ProductDetail/TE-Connectivity-Holsworthy/CRG0805F120R?qs=o1jQnaWw5FSM5FiCDfd%2FPQ%3D%3D
+R10, R12, R15, R17, R23, R25;6;2K2;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder; € 0,20 ; € 1,20 ;TE Connectivity;279-CRG0805F2K2;https://www.mouser.es/ProductDetail/TE-Connectivity-Holsworthy/CRG0805F2K2?qs=DfH2yQaBz6tTfarX6CbcPg%3D%3D
+SW1;1;SW_Push;Pulsador:1301931424; € 0,36 ; € 0,36 ;Schurter;693-1301.9314.24;https://www.mouser.es/ProductDetail/Schurter/1301931424?qs=GIi83qBHgilkrMwKiiKACQ%3D%3D&mgh=1&vip=1&gclid=Cj0KCQiAzfuNBhCGARIsAD1nu-9rt2rHrG2i0_bGL7KI-Jvk_PkBvOClMXIZBKT1bfyS8JYbn20BVN4aAlmfEALw_wcB
+U1;1;ATmega2560-16AU;Package_QFP:TQFP-100_14x14mm_P0.5mm;; € -   ;;;
+U2;1;NCP1117-5.0_TO252;Package_TO_SOT_SMD:TO-252-2; € 0,76 ; € 0,76 ;Onsemi;863-NCP1117DT50G;https://www.mouser.es/ProductDetail/onsemi/NCP1117DT50G?qs=Gev%252BmEvV0iaXyZQB7E2Yhg%3D%3D
+U3, U4;2;MCP2515-I/SO;MCP2515-I_SO:SOIC127P1030X265-18N; € 2,45 ; € 4,90 ;Microchip;579-MCP2515-I/SO;https://www.mouser.es/ProductDetail/Microchip-Technology-Atmel/MCP2515-I-SO?qs=KwArPi4cUogGDbGnphOvtQ%3D%3D
+U5, U6;2;ISO1050DUB;Package_SO:SOP-8_6.62x9.15mm_P2.54mm; € 6,86 ; € 13,72 ;Texas Instruments;595-ISO1050DUB;https://www.mouser.es/ProductDetail/Texas-Instruments/ISO1050DUB?qs=IK5e5L0zOXiBKtns%252BwxBWw%3D%3D
+Y1;1;16 MHz;Crystal 8MHz:ECS-80-32-1X;; € -   ;;;
+Y2, Y3;2;8 MHz;Crystal 8MHz:ECS-80-32-1X;; € -   ;;;

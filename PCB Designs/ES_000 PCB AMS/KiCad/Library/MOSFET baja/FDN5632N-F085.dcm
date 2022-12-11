@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDN5632N-F085
+D MOSFET Trans MOS N-Ch 60V 1.7A
+K
+F https://www.onsemi.com/pub/Collateral/FDN5632N_F085-D.PDF
+$ENDCMP
+#
+#End Doc Library

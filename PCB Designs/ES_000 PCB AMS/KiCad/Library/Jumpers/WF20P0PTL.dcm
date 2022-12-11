@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WF20P0PTL
+D The resistors are constructed in a high grade ceramic bodyResistance Range 0,1 ~ 1M
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/WATC/WATCS00992/WATCS00992-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+#End Doc Library

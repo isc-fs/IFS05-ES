@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "mcp-2515")(type "Legacy")(uri "${KIPRJMOD}/Library/MCP-2515/2022-09-28_20-15-46.lib")(options "")(descr ""))
+  (lib (name "placamaster-rescue")(type "Legacy")(uri "${KIPRJMOD}/placamaster-rescue.lib")(options "")(descr ""))
+  (lib (name "MCP2515-I_SO")(type "Legacy")(uri "${KIPRJMOD}/Library/MCP2515-I_SO/MCP2515-I_SO.lib")(options "")(descr ""))
+  (lib (name "Conector 2 pin C-grid")(type "Legacy")(uri "${KIPRJMOD}/Library/Conector 2 pin C-grid/90136-1102.lib")(options "")(descr ""))
+  (lib (name "Conector 3 pin C-grid")(type "Legacy")(uri "${KIPRJMOD}/Library/Conector 3 pin C-grid/90136-1103.lib")(options "")(descr ""))
+  (lib (name "Conector 4 pin C-grid")(type "Legacy")(uri "${KIPRJMOD}/Library/Conector 4 pin C-grd/90136-1104.lib")(options "")(descr ""))
+  (lib (name "Conector 5 pin C-grid")(type "Legacy")(uri "${KIPRJMOD}/Library/Conector 5 pin C-grid/90136-1105.lib")(options "")(descr ""))
+  (lib (name "Conector 6 pin C-grid")(type "Legacy")(uri "${KIPRJMOD}/Library/Conector 6 pin C-grid/90136-1106.lib")(options "")(descr ""))
+  (lib (name "ATMEGA328PB-AN")(type "Legacy")(uri "${KIPRJMOD}/Library/ATMEGA328PB-AN/ATMEGA328PB-AN.lib")(options "")(descr ""))
+)
